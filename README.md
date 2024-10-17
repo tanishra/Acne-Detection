@@ -16,5 +16,5 @@ To try out the web demo of Acne Detection System , visit Demo Link. 🚀 https:/
 ## Installation
 
 Clone the repository: git clone https://github.com/tanishra/Acne-Detection.git Navigate to the
-project directory: cd twitter-sentiment-analysis Install dependencies: pip install -r requirements.txt Run 
+project directory: cd Acne Detection  Install dependencies: pip install -r requirements.txt Run 
 the application: streamlit main.py 🛠️
